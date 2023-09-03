@@ -12,6 +12,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dolor nisl, posuere
 #### Feature N:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dolor nisl, posuere et consectetur eget, mattis a magna.
 ### Link to repository
-[https://github/kaperskyguru/advanced-rust-exercise]
+https://github/kaperskyguru/advanced-rust-exercise
 
 ---
